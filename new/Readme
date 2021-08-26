@@ -1,0 +1,8 @@
+Video Chat App Using Nodejs And Socket.Io
+
+
+To Run Project
+
+npm i
+npm watch
+npm start
