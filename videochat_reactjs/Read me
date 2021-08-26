@@ -1,0 +1,8 @@
+videochat app using Reactjs,Node.js 
+
+
+to Run Project 
+npm i  to install dependecies and Packages
+start project --
+directory frontend 
+npm start
